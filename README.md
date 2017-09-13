@@ -1,4 +1,4 @@
-# constraint-solving
+# Constraint-solving
 Satisfiability and sat-solvers
 
 # DPLL algorithm implementation:
